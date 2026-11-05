@@ -1,0 +1,31 @@
+/* .sidebar-container{
+    width: 100%;
+    height: auto;
+    background-color: #d61b1b;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    row-gap: 1.5rem;  
+}
+
+.menuitems-container{
+    width: 100%;
+    height: auto;
+    background-color: #1b5cd6;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    row-gap: 1.5rem;
+}
+.menu-content{
+    width: 100%;
+    height: auto;
+    background-color: #d61bd6;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+    column-gap: 0.8rem;
+}  */

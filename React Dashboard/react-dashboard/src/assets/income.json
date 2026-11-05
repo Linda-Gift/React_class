@@ -1,0 +1,17 @@
+{
+    "income" : [
+        {
+            "amount" : 100000,
+            "date" : "19 March, 2024"        
+        },
+        {
+            "amount" : 270000,
+            "date" : "08 March, 2024" 
+        },
+        {
+            "amount" : 200000,
+            "date" : "06 February, 2024"        
+        }
+
+    ]
+}

@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    /* letter-spacing: -0.1rem; */
+    font-family: "Inter", system-ui;
+}
+
+.card-container{
+    width: 28%;
+    height: auto;
+    background-color: #f8f8f8;
+    border-radius: 0.4rem;
+    margin: 3rem auto;
+    padding: 1.5rem;
+    border: 1px solid #cccccc;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    row-gap: 2.5rem;
+}
+
+.top-card-content{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    row-gap: 0.4rem;
+}
+
+.card-top-text p{
+    font-weight: 700;
+    font-size: 1.25rem;
+}
+
+.amount-and-time-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: baseline;
+    column-gap: 0.4rem;
+}
+
+.amount h1{
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.card-text p{
+    width: 95%;
+}
+.bottom-card-content{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    row-gap: 0.4rem;
+}
+
+.fingerprint-and-button-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    column-gap: 0.5rem;
+    cursor: pointer;
+}
+
+.fingerprint-icon{
+    width: 14%;
+    height: auto;
+    background-color: black;
+    color: #ffffff;
+    padding: 1rem;
+    border-radius: 0.4rem;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.button-container{
+    width: 86%;
+    height: auto;
+}
+
+.button-container button{
+    width: 100%;
+    height: auto;
+    background-color: black;
+    color: #ffffff;
+    padding: 1rem;
+    border-radius: 0.4rem;
+    text-align: center;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.image-container{
+    width: 100%;
+    height: auto;
+    padding: 3.5rem 5rem 3.5rem 5rem;
+    border-radius: 0.4rem;
+    background-image: url(./Image/white\ board.jpeg);
+    background-color: #d1d1d1;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
