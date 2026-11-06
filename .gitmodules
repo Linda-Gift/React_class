@@ -1,0 +1,27 @@
+[submodule "alert-modal"]
+	path = Alert Dialog/alert-modal
+	url = https://github.com/Linda-Gift/Alert-Modal.git
+[submodule "axion-ui"]
+	path = Axion-UI
+	url = https://github.com/Linda-Gift/Axon-UI.git
+[submodule "fetch-api"]
+	path = Fetch-Api
+	url = https://github.com/Linda-Gift/Fetch-API.git
+[submodule "react-form"]
+	path = Form component/React-form
+	url = https://github.com/Linda-Gift/Sign-Up-and-Sign-In-Form.git
+[submodule "productlist"]
+	path = ProductList/react-productlist
+	url = https://github.com/Linda-Gift/ProductList-Page.git
+[submodule "profilecard"]
+	path = Profilecard/react-app
+	url = https://github.com/Linda-Gift/ProfileCard.git
+[submodule "react-task"]
+	path = React Task
+	url = https://github.com/Linda-Gift/Usercard-with-Prop-and-PropTypes.git
+[submodule "react-lesson-2024"]
+	path = React lesson 2024
+	url = https://github.com/Linda-Gift/Card-Made-with-REACT-props.git
+[submodule "lesson2"]
+	path = lesson2
+	url = https://github.com/Linda-Gift/Simple-Card.git
